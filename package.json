@@ -20,7 +20,7 @@
   "dependencies": {
     "@sentry/node": "^4.5.3",
     "axios": "^0.18.0",
-    "bcrypt": "^3.0.3",
+    "bcrypt": "^5.0.0",
     "dotenv": "^6.2.0",
     "jsonwebtoken": "^8.4.0",
     "knex": "^0.20.1",
